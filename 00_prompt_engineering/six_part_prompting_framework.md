@@ -63,7 +63,7 @@ Recommend an investment strategy for a 32-year-old with moderate risk tolerance,
 - Complex projects (business plan): Extensive context required
 - Life-changing decisions: Maximum context investment
 
-### 3. Logic: Define the Output Structure
+### 3. Logic: Define how to think for a desired output format
 
 **The Problem:** Without guidance, AI will respond in whatever format it chooses, which might not be useful for your needs.
 
